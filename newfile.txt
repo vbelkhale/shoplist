@@ -1,8 +1,11 @@
-
 This is a new file.
 
 For testing committing to git hub.
 
+<<<<<<< HEAD
 Vidya's specific changes
 Vidya's specific changes
+=======
+Vidya's specific changes to  merge
+>>>>>>> 4511c57450be45e86df4c64f877f078235f0bdef
 One more change.
